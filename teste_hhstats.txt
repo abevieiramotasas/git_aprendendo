@@ -1,1 +1,3 @@
 testando
+
+adiciono esta linha para testar o log com --stats
